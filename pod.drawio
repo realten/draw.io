@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T17:36:58.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="QuLjpHcy0XXpIVyVxKGU" version="18.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-18T17:48:16.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="iqr1safYfXDMC7xcJBQg" version="18.0.5" type="github" pages="5">
   <diagram id="v8R6VN3daj33qXkN_VN0" name="Namespace">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,7 +525,7 @@
           <mxGeometry x="-240" y="-550.5" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEyvWpkcxSBsFxz6Iel-1" value="&lt;div&gt;apiVersion: extensions/v1beta1&lt;/div&gt;&lt;div&gt;kind: Ingress&lt;/div&gt;&lt;div&gt;metadata:&lt;/div&gt;&lt;div&gt;&amp;nbsp; name: kubernetes-Ingress&lt;/div&gt;&lt;div&gt;spec:&lt;/div&gt;&lt;div&gt;&amp;nbsp; rules:&lt;/div&gt;&lt;div&gt;&amp;nbsp; - http:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; paths:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - path: /service1/*&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; backend:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; serviceName: kubernetes-service1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; servicePort: 80&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - path: /service2/*&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; backend:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; serviceName: kubernetes-service2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; servicePort: 80&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-560" width="570" height="290" as="geometry" />
+          <mxGeometry x="200" y="-560" width="320" height="290" as="geometry" />
         </mxCell>
         <mxCell id="iFRc9FRMv69tHeM5ilgp-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="180" y="-558" width="20" height="75" as="geometry" />
