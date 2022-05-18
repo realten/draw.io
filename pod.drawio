@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T13:57:28.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="2B30U58uMwXWT47rytPO" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-18T13:03:22.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="TM6MecivOKhekv2amvVp" version="18.0.5" type="github" pages="4">
   <diagram id="v8R6VN3daj33qXkN_VN0" name="Namespace">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,11 +171,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jWiaDIFcxtbjYrEgSo1J" name="Pod">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pJ9Bs41D0uefA8cdXf1T-1" value="&lt;b&gt;Node&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=none;fontSize=20;fontFamily=맑은 고딕;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-11;" vertex="1" parent="1">
+        <mxCell id="pJ9Bs41D0uefA8cdXf1T-1" value="&lt;b&gt;Node&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=none;fontSize=20;fontFamily=맑은 고딕;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-11;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="120" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="UAB4d3aV1eBXIrBZufvv-1" value="&lt;b&gt;Node&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=none;fontSize=20;fontFamily=맑은 고딕;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingBottom=-11;" parent="1" vertex="1">
@@ -370,7 +370,7 @@
             <mxPoint x="250" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAB4d3aV1eBXIrBZufvv-68" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="UAB4d3aV1eBXIrBZufvv-1">
+        <mxCell id="UAB4d3aV1eBXIrBZufvv-68" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="UAB4d3aV1eBXIrBZufvv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="79.5" y="440" as="sourcePoint" />
             <mxPoint x="240" y="440" as="targetPoint" />
@@ -394,35 +394,108 @@
         <mxCell id="UAB4d3aV1eBXIrBZufvv-72" value="&amp;lt;다중&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="384" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJ9Bs41D0uefA8cdXf1T-2" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="pJ9Bs41D0uefA8cdXf1T-2" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320.5" y="120" as="sourcePoint" />
             <mxPoint x="390.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9Bs41D0uefA8cdXf1T-3" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="pJ9Bs41D0uefA8cdXf1T-3" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450.5" y="120" as="sourcePoint" />
             <mxPoint x="520.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9Bs41D0uefA8cdXf1T-4" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pJ9Bs41D0uefA8cdXf1T-1">
+        <mxCell id="pJ9Bs41D0uefA8cdXf1T-4" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pJ9Bs41D0uefA8cdXf1T-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320.5" y="440" as="sourcePoint" />
             <mxPoint x="390.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9Bs41D0uefA8cdXf1T-5" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJ9Bs41D0uefA8cdXf1T-1" target="pJ9Bs41D0uefA8cdXf1T-1">
+        <mxCell id="pJ9Bs41D0uefA8cdXf1T-5" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pJ9Bs41D0uefA8cdXf1T-1" target="pJ9Bs41D0uefA8cdXf1T-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330.5" y="450" as="sourcePoint" />
             <mxPoint x="530.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ9Bs41D0uefA8cdXf1T-6" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pJ9Bs41D0uefA8cdXf1T-1">
+        <mxCell id="pJ9Bs41D0uefA8cdXf1T-6" value="" style="endArrow=none;html=1;rounded=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;startSize=6;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pJ9Bs41D0uefA8cdXf1T-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="321" y="120" as="sourcePoint" />
             <mxPoint x="530.5" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qxBGs2qXANWN4bDXT8a5" name="Deployment">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6I-imFqq1BXHncGWxqRl-1" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=맑은 고딕;verticalAlign=top;spacingBottom=0;spacingTop=-4;labelBackgroundColor=none;fontStyle=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="160" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-1" value="ReplicaSet" style="rounded=0;html=1;labelBackgroundColor=#D5E8D4;fontSize=15;fontStyle=1;fontFamily=맑은 고딕;spacingTop=-5;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;gradientDirection=north;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-3" value="Pod Spec" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-4" value="&lt;div&gt;apiVersion: apps/v1&lt;/div&gt;&lt;div&gt;kind: Deployment&lt;/div&gt;&lt;div&gt;metadata:&lt;/div&gt;&lt;div&gt;&amp;nbsp; name: kubernetes-deployment&lt;/div&gt;&lt;div&gt;&amp;nbsp; labels:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; app: microservice-sidecar-example&lt;/div&gt;&lt;div&gt;spec:&lt;/div&gt;&lt;div&gt;&amp;nbsp; replicas: 4&lt;/div&gt;&lt;div&gt;&amp;nbsp; selector:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; matchLabels:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; app: microservice-sidecar-example&lt;/div&gt;&lt;div&gt;&amp;nbsp; template:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; metadata:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; labels:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; app: microservice-sidecar-example&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; spec:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; containers:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - name: nginx-example&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; image: wonyj210/nginx-example:0.0.1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; imagePullPolicy: Always&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ports:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - containerPort: 80&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - name: sidecar-example&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; image: wonyj210/microservice-sidecar-example:0.0.1&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; imagePullPolicy: Always&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="420" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="670" y="165" width="20" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-8" value="Deployment&lt;br&gt;name : kubernetes-deployment" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="187" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-9" value="Replicas = 4&lt;br&gt;Selector = app: microservice-sidecar-exmaple" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="285.5" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="670" y="272" width="20" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-11" value="Pod&lt;br style=&quot;font-size: 10px;&quot;&gt;labels = app: microservice-sidecar-example" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=10;gradientDirection=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="412" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="670" y="362" width="20" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-14" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="412" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-15" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="502" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awq7nlfXXPoWuRJ7XIkc-16" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="502" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Sp2o9kEOwr5_wJ2BnnxX" name="Service">
+    <mxGraphModel dx="1822" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SpJ7Gmo7LBgZMwbJDcjt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="XaBUdTmNzGwfc_AChKfh-1" target="SpJ7Gmo7LBgZMwbJDcjt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XaBUdTmNzGwfc_AChKfh-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Service&lt;/b&gt;&lt;/font&gt;&lt;br&gt;name : kubernetes-service&lt;br&gt;selector : app: label1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="120" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XaBUdTmNzGwfc_AChKfh-2" value="&lt;div&gt;apiVersion: v1&lt;/div&gt;&lt;div&gt;kind: Service&lt;/div&gt;&lt;div&gt;metadata:&lt;/div&gt;&lt;div&gt;&amp;nbsp; name: kubernetes-service&lt;/div&gt;&lt;div&gt;spec:&lt;/div&gt;&lt;div&gt;&amp;nbsp; type: NodePort&lt;/div&gt;&lt;div&gt;&amp;nbsp; ports:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - protocol: TCP&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; nodePort: 31002 #외부에서 접속하기 위한 포트&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; port: 80 #Cluster 내부에서 사용할 Service 객체의 포트&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; targetPort: 80 #Service 객체로 전달된 요청을 Pod로 전달할 때 사용하는 포트&lt;/div&gt;&lt;div&gt;&amp;nbsp; selector:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; app: label1&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="120" width="570" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SpJ7Gmo7LBgZMwbJDcjt-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Deployment&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;label : app: label2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpJ7Gmo7LBgZMwbJDcjt-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Deployment&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;label : app: label1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;gradientDirection=north;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpJ7Gmo7LBgZMwbJDcjt-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="120" width="20" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
