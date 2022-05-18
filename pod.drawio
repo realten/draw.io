@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T17:33:55.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="YpmW33aXi8cZ_C_dw2xT" version="18.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-18T17:36:58.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="QuLjpHcy0XXpIVyVxKGU" version="18.0.5" type="github" pages="5">
   <diagram id="v8R6VN3daj33qXkN_VN0" name="Namespace">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,11 +533,47 @@
         <mxCell id="iFRc9FRMv69tHeM5ilgp-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=20;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="180" y="-481" width="20" height="211" as="geometry" />
         </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="iFRc9FRMv69tHeM5ilgp-3" target="Zy6Dm_R_MFLmIXlz_ylO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="iFRc9FRMv69tHeM5ilgp-3" target="Zy6Dm_R_MFLmIXlz_ylO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="iFRc9FRMv69tHeM5ilgp-3" target="Zy6Dm_R_MFLmIXlz_ylO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFRc9FRMv69tHeM5ilgp-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Service&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;name: kubernetes-service1&lt;br&gt;port: 80&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-240" y="-415.5" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="iFRc9FRMv69tHeM5ilgp-4" target="Zy6Dm_R_MFLmIXlz_ylO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="iFRc9FRMv69tHeM5ilgp-4" target="Zy6Dm_R_MFLmIXlz_ylO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="iFRc9FRMv69tHeM5ilgp-4" target="Zy6Dm_R_MFLmIXlz_ylO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFRc9FRMv69tHeM5ilgp-4" value="&lt;span style=&quot;font-size: 20px; font-weight: 700;&quot;&gt;Service&lt;/span&gt;&lt;br&gt;name: kubernetes-service2&lt;br&gt;port: 80" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-30" y="-415.5" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-1" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-4" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-5" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-6" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-7" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zy6Dm_R_MFLmIXlz_ylO-8" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=맑은 고딕;fontSize=15;fontColor=#000000;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-290" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
