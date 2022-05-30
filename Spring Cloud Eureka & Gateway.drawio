@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T11:45:55.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="edzx1OCg8o4OWA3ynyT-" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-30T22:35:50.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="M1PD315MXA6QWSZyH3ka" version="18.1.3" type="github" pages="2">
   <diagram id="tCjOHd1AOHYK8ctcOkT3" name="Page-1">
-    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
         <mxCell id="0uWgaXjeywN7YIeMeXA3-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FF8000;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" source="u_qnulU21Ccd_IEKLZmD-2" target="0uWgaXjeywN7YIeMeXA3-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u_qnulU21Ccd_IEKLZmD-2" value="MicroService&lt;br&gt;Application 2&lt;br&gt;8082" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
+        <mxCell id="u_qnulU21Ccd_IEKLZmD-2" value="MicroService&lt;br&gt;Application 2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
           <mxGeometry x="760" y="415" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0uWgaXjeywN7YIeMeXA3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;startArrow=classic;startFill=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" source="u_qnulU21Ccd_IEKLZmD-3" target="u_qnulU21Ccd_IEKLZmD-1" edge="1">
+        <mxCell id="0uWgaXjeywN7YIeMeXA3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;startArrow=none;startFill=0;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;curved=1;" parent="1" source="u_qnulU21Ccd_IEKLZmD-3" target="u_qnulU21Ccd_IEKLZmD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LcAdzvYWBtJncnAksIGm-1" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" edge="1" parent="1" source="u_qnulU21Ccd_IEKLZmD-3" target="0uWgaXjeywN7YIeMeXA3-12">
+        <mxCell id="LcAdzvYWBtJncnAksIGm-1" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;strokeColor=#7F00FF;" edge="1" parent="1" source="u_qnulU21Ccd_IEKLZmD-3" target="0uWgaXjeywN7YIeMeXA3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_qnulU21Ccd_IEKLZmD-3" value="API Gateway&lt;br&gt;Spring Cloud&amp;nbsp;Gateway&lt;br&gt;80" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
@@ -34,12 +34,12 @@
         <mxCell id="0uWgaXjeywN7YIeMeXA3-1" value="&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
           <mxGeometry x="605" y="120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0uWgaXjeywN7YIeMeXA3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#0000FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" source="0uWgaXjeywN7YIeMeXA3-12" target="u_qnulU21Ccd_IEKLZmD-1" edge="1">
+        <mxCell id="0uWgaXjeywN7YIeMeXA3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#0000FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" source="0uWgaXjeywN7YIeMeXA3-12" target="u_qnulU21Ccd_IEKLZmD-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uWgaXjeywN7YIeMeXA3-8" value="MicroService&lt;br&gt;Application 1&lt;br&gt;8081" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
+        <mxCell id="0uWgaXjeywN7YIeMeXA3-8" value="MicroService&lt;br&gt;Application 1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
           <mxGeometry x="540" y="415" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0uWgaXjeywN7YIeMeXA3-12" value="Application Layer" style="swimlane;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
@@ -47,42 +47,66 @@
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-3" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="170" as="sourcePoint" />
-            <mxPoint x="910" y="170" as="targetPoint" />
+            <mxPoint x="870" y="180" as="sourcePoint" />
+            <mxPoint x="910" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-4" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#0000FF;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="190" as="sourcePoint" />
-            <mxPoint x="910" y="190" as="targetPoint" />
+            <mxPoint x="870" y="220" as="sourcePoint" />
+            <mxPoint x="910" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-5" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#FF8000;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="210" as="sourcePoint" />
-            <mxPoint x="910" y="210" as="targetPoint" />
+            <mxPoint x="870" y="260" as="sourcePoint" />
+            <mxPoint x="910" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-7" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#00CC00;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="230" as="sourcePoint" />
-            <mxPoint x="910" y="230" as="targetPoint" />
+            <mxPoint x="870" y="280" as="sourcePoint" />
+            <mxPoint x="910" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-12" value="범례" style="swimlane;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="860" y="130" width="205" height="120" as="geometry" />
+          <mxGeometry x="860" y="140" width="205" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-11" value="DB Access" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
-          <mxGeometry x="60" y="90" width="70" height="20" as="geometry" />
+          <mxGeometry x="60" y="130" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-10" value="Container To Container" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
-          <mxGeometry x="60" y="70" width="145" height="20" as="geometry" />
+          <mxGeometry x="60" y="110" width="145" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LcAdzvYWBtJncnAksIGm-9" value="Service Discovery" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
-          <mxGeometry x="60" y="50" width="115" height="20" as="geometry" />
+        <mxCell id="LcAdzvYWBtJncnAksIGm-9" value="Service Registrty" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
+          <mxGeometry x="60" y="70" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LcAdzvYWBtJncnAksIGm-8" value="API 호출" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
           <mxGeometry x="60" y="30" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IH-467Ae1hcJbg7Y0LEm-1" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;strokeColor=#7F00FF;" edge="1" parent="LcAdzvYWBtJncnAksIGm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="50" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IH-467Ae1hcJbg7Y0LEm-2" value="LoadBalance" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
+          <mxGeometry x="60" y="50" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IH-467Ae1hcJbg7Y0LEm-3" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#FF0000;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" edge="1" parent="LcAdzvYWBtJncnAksIGm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="100" as="sourcePoint" />
+            <mxPoint x="50" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IH-467Ae1hcJbg7Y0LEm-4" value="Service Discovery" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" vertex="1" parent="LcAdzvYWBtJncnAksIGm-12">
+          <mxGeometry x="60" y="90" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IH-467Ae1hcJbg7Y0LEm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;startArrow=none;startFill=0;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="279.76" as="sourcePoint" />
+            <mxPoint x="460" y="279.76" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -98,8 +122,14 @@
         <mxCell id="oxTNqDRE4Pa-PtXZfXSM-3" value="Route" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oxTNqDRE4Pa-PtXZfXSM-2">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oxTNqDRE4Pa-PtXZfXSM-4" value="Route" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oxTNqDRE4Pa-PtXZfXSM-2">
+        <mxCell id="oxTNqDRE4Pa-PtXZfXSM-4" value="Circuit Breaker" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oxTNqDRE4Pa-PtXZfXSM-2">
           <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RQZ3Nx_0aMxZHhN2nF4T-1" value="AB Test" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oxTNqDRE4Pa-PtXZfXSM-2">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RQZ3Nx_0aMxZHhN2nF4T-2" value="AB Test" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oxTNqDRE4Pa-PtXZfXSM-2">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
