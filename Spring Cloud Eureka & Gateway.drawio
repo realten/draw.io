@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T01:37:34.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.114 Whale/3.17.145.12 Safari/537.36" etag="wDusYEoOpx3EW70NjV-R" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-25T01:46:36.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.114 Whale/3.17.145.12 Safari/537.36" etag="af1bqaAgHBeHHC8zLxN-" version="20.6.0" type="github" pages="3">
   <diagram id="tCjOHd1AOHYK8ctcOkT3" name="Page-1">
     <mxGraphModel dx="1376" dy="1195" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,11 +16,11 @@
         <mxCell id="u_qnulU21Ccd_IEKLZmD-4" value="DB&lt;br&gt;h2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
           <mxGeometry x="760" y="580" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="99FGNWnfbiT-wpO45prS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0uWgaXjeywN7YIeMeXA3-1" target="99FGNWnfbiT-wpO45prS-1">
+        <mxCell id="99FGNWnfbiT-wpO45prS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0uWgaXjeywN7YIeMeXA3-1" target="99FGNWnfbiT-wpO45prS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0uWgaXjeywN7YIeMeXA3-1" value="&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
-          <mxGeometry x="825" y="-40" width="30" height="60" as="geometry" />
+          <mxGeometry x="825" y="-20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0uWgaXjeywN7YIeMeXA3-8" value="MicroService&lt;br&gt;Application 1&lt;br&gt;8082" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" parent="1" vertex="1">
           <mxGeometry x="540" y="415" width="160" height="80" as="geometry" />
@@ -61,8 +61,8 @@
         <mxCell id="LcAdzvYWBtJncnAksIGm-9" value="Service Registrty" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" parent="LcAdzvYWBtJncnAksIGm-12" vertex="1">
           <mxGeometry x="60" y="70" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LcAdzvYWBtJncnAksIGm-8" value="API 호출" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" parent="LcAdzvYWBtJncnAksIGm-12" vertex="1">
-          <mxGeometry x="60" y="30" width="60" height="20" as="geometry" />
+        <mxCell id="LcAdzvYWBtJncnAksIGm-8" value="Http 요청" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;" parent="LcAdzvYWBtJncnAksIGm-12" vertex="1">
+          <mxGeometry x="60" y="25" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IH-467Ae1hcJbg7Y0LEm-1" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;fontSize=12;strokeColor=#7F00FF;" parent="LcAdzvYWBtJncnAksIGm-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,11 +146,17 @@
             <mxPoint x="845" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="99FGNWnfbiT-wpO45prS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99FGNWnfbiT-wpO45prS-1" target="u_qnulU21Ccd_IEKLZmD-3">
+        <mxCell id="99FGNWnfbiT-wpO45prS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="99FGNWnfbiT-wpO45prS-5" target="u_qnulU21Ccd_IEKLZmD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="99FGNWnfbiT-wpO45prS-1" value="Front Service&lt;br&gt;80" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="160" height="80" as="geometry" />
+        <mxCell id="99FGNWnfbiT-wpO45prS-1" value="Front Service&lt;br&gt;8080" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99FGNWnfbiT-wpO45prS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99FGNWnfbiT-wpO45prS-5" target="99FGNWnfbiT-wpO45prS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99FGNWnfbiT-wpO45prS-5" value="nginx&lt;br&gt;80" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Nanum Gothic;fontSource=http%3A%2F%2Ffonts.googleapis.com%2Fearlyaccess%2Fnanumgothic.css;" vertex="1" parent="1">
+          <mxGeometry x="760" y="100" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
